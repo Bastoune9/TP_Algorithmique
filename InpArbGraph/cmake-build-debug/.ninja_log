@@ -1,0 +1,6 @@
+# ninja log v5
+1	21	1729791726257702116	CMakeFiles/InpArbGraph.dir/main2.cpp.o	c36b401c47540b6f
+21	612	1729791726848719754	CMakeFiles/InpArbGraph.dir/version1.cpp.o	dc82e515b8954287
+0	22	1729793592804969187	build.ninja	5e0d3c680ec61ef1
+589	679	1729791853002580895	InpArbGraph	fd64c364b1d790ca
+1	589	1729791852912624740	CMakeFiles/InpArbGraph.dir/main.cpp.o	6ecc7de8cf522561

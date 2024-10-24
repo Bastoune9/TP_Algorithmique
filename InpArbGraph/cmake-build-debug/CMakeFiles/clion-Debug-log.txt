@@ -1,0 +1,4 @@
+/home/bastien/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/bastien/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/bastien/CLionProjects/InpArbGraph -B /home/bastien/CLionProjects/InpArbGraph/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bastien/CLionProjects/InpArbGraph/cmake-build-debug
